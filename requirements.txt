@@ -1,0 +1,9 @@
+blinker
+click
+Flask
+Flask-Mail
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+gunicorn
